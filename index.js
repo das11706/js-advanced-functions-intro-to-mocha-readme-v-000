@@ -10,12 +10,12 @@ function sayHeyFriend(name){
   return "Hey, " + name +"!";
 }
 
-function favoriteIceCream(){
-  debugger
+function favoriteIceCream(name){
   return "I love " + name;
 }
 
-function shouting(string){
+function shouting(){
+  debugger
   return string.toUpperCase();
 }
 

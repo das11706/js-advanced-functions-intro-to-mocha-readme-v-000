@@ -7,9 +7,13 @@ function sayHey(){
 }
 
 function sayHeyFriend(name){
-  return "Hey, " + name +"!"
+  return "Hey, " + name +"!";
 }
 
 function favoriteIceCream(name){
-  return "I love " + name
+  return "I love " + name;
+}
+
+function shouting(string){
+  return string.toUpperCase();
 }

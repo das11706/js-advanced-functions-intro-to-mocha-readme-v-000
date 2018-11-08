@@ -10,7 +10,8 @@ function sayHeyFriend(name){
   return "Hey, " + name +"!";
 }
 
-function favoriteIceCream(name){
+function favoriteIceCream(){
+  debugger
   return "I love " + name;
 }
 
